@@ -254,17 +254,15 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.MG_FIREBALL] = {
 		"Fire Ball",
-		"Max Level: 10",
-		"^CC3399Requirement: Fire Bolt 4^000000",
-		"Skill Form: ^FF0000Offensive^000000",
-		"Property: ^FF0000Fire^000000",
-		"Target: ^777777Enemy^000000",
-		"Description: ^777777Summon a fire ball to damage",
-		"a target and  all enemies within its area of",
-		"effect. Enemies near the target receive 3/4",
-		"of damage inflicted on skill's target.",
-		"At levels 6 and above, Fire Ball's casting",
-		"and delay time is reduced.^000000"
+		"ระดับสูงสุดของสกิล : 10",
+		"^CC3399ความต้องการเรียนรู้สกิล : Fire Bolt 4^000000",
+		"ประเภทสกิล: ^FF0000ใช้งาน, โจมตี^000000",
+		"คุณสมบัติ : ^FF0000ธาตุไฟ^000000",
+		"เป้าหมาย : ^777777ศัตรู^000000",
+		"คำอธิบาย : ^777777เรียกลูกไฟเพื่อสร้างความเสียหายให้กับเป้าหมาย",
+		"และ ศัตรูทั้งหมดที่อยู่ในบริเวณเป้าหมายจะได้รับความเสียหาย 3/4",
+		"ของความเสียหายที่ได้รับจากการต่อสู้กับเป้าหมาย.",
+		"ระยะเวลาร่ายเวทย์จะลดลงเมื่อผลของสกิลมากกว่าระดับ 6 ขึ้นไป"
 	},
 	[SKID.MG_FIREWALL] = {
 		"Fire Wall",
