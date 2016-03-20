@@ -244,14 +244,13 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.MG_STONECURSE] = {
 		"Stone Curse",
-		"Max Level: 10",
-		"Skill Form: ^777777Curse^000000",
-		"Property: ^cc5500Earth^000000",
-		"Target: ^777777Enemy^000000",
-		"Description: ^777777Curse an enemy by turning it",
-		"into stone. Has no effect on Boss and Undead",
-		"monsters.",
-		"Each cast requires 1 ^00bb00Red Gemstone^777777.^000000"
+		"ระดับสูงสุดของสกิล : 10",
+		"ประเภทสกิล : ^777777คำสาป^000000",
+		"คุณสมบัติ : ^cc5500ธาตุดิน^000000",
+		"เป้าหมาย : ^777777ศัตรู^000000",
+		"คำอธิบาย : ^777777ใช้คำสาปกับศัตรูให้กลายเป็นหิน.",
+		"ไม่มีผลกับมอนส์เตอร์ประเภท Undead และ Boss Monster",
+		"แต่ละครั้งที่ใช้จะต้องเสีย 1 ^00bb00Red Gemstone^777777.^000000"
 	},
 	[SKID.MG_FIREBALL] = {
 		"Fire Ball",
