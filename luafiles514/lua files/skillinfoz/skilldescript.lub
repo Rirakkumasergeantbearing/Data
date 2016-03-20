@@ -278,12 +278,12 @@ SKILL_DESCRIPT = {
 		"Fire Bolt",
 		"ระดับสูงสุดของสกิล : 10",
 		"ประเภทสกิล: ^FF0000ใช้งาน, โจมตี^000000",
-		"คุณสมบัติ : ^FF0000Fire^000000",
-		"เป้าหมาย : ^777777Enemy^000000",
-		"คำอธิบาย : ^777777Summon bolts of pure flame to",
-		"strike at an enemy. Barring changes in damage",
-		"due to elemental properties, each bolt inflicts",
-		"an amount of damage equal to the caster's",
+		"คุณสมบัติ : ^FF0000ธาตุไฟ^000000",
+		"เป้าหมาย : ^777777ศัตรู^000000",
+		"คำอธิบาย : ^777777เรียกหอกของเปลวไฟที่บริสุทธิ์โจมตีศัตรู",
+		"ยกเว้นความเสียหายเนื่องจากมีคุณสมบัติของธาตุเดียวกัน",
+		"ทุกระดับสกิลที่เพิ่มขึ้น",
+		"ปริมาณของความเสียหายจะเท่ากับ",
 		"MATK.^000000"
 	},
 	[SKID.MG_LIGHTNINGBOLT] = {
