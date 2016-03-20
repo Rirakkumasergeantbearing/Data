@@ -289,13 +289,13 @@ SKILL_DESCRIPT = {
 	[SKID.MG_LIGHTNINGBOLT] = {
 		"Lightning Bolt",
 		"ระดับสูงสุดของสกิล : 10",
-		"ประเภทสกิล : ^FF0000Offensive^000000",
-		"คุณสมบัติ : ^4cbb17Wind^000000",
-		"เป้าหมาย : ^777777Enemy^000000",
-		"คำอธิบาย : ^777777Summon bolts of lightning to",
-		"strike at an enemy. Barring changes in damage",
-		"due to elemental properties, each bolt inflicts",
-		"an amount of damage equal to the caster's",
+		"ประเภทสกิล : ^FF0000ใช้งาน, โจมตี^000000",
+		"คุณสมบัติ : ^4cbb17ธาตุลม^000000",
+		"เป้าหมาย : ^777777ศัตรู^000000",
+		"คำอธิบาย : ^777777เรียกสายฟ้าโจมตีศัตรู",
+		"ยกเว้นความเสียหายเนื่องจากมีคุณสมบัติของธาตุเดียวกัน",
+		"ทุกระดับสกิลที่เพิ่มขึ้น",
+		"ปริมาณของความเสียหายจะเท่ากับ",
 		"MATK.^000000"
 	},
 	[SKID.MG_THUNDERSTORM] = {
