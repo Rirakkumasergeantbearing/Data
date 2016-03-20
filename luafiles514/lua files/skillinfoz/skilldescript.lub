@@ -211,15 +211,14 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.MG_SOULSTRIKE] = {
 		"Soul Strike",
-		"Max Level: 10",
-		"^CC3399Requirement: Napalm Beat 4^000000",
-		"Skill Form: ^339900Active^000000",
-		"Property: ^bb00bbGhost^000000",
-		"Target: ^777777Enemy^000000",
-		"Description: ^777777Summon holy spirit to inflict",
-		"ghost property attacks on a target. This skill",
-		"inflicts additional damage against Undead",
-		"property monster.^000000"
+		"ระดับสูงสุดของสกิล : 10",
+		"^CC3399ความต้องการเรียนรู้สกิล : Napalm Beat 4^000000",
+		"ประเภทสกิล : ^339900ว่องไว^000000",
+		"คุณสมบัติ : ^bb00bbวิญญาณ^000000",
+		"เป้าหมาย : ^777777ศัตรู^000000",
+		"คำอธิบาย : ^777777เรียกวิญญาณบริสุทธิ์ที่จะสร้างความเจ็บปวดให้กับเป้าหมาย",
+		"Monster ประเภท Undead จะได้รับความเสียหายเป็นอย่างมาก",
+		".^000000"
 	},
 	[SKID.MG_COLDBOLT] = {
 		"Cold Bolt",
