@@ -182,33 +182,32 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.MG_SIGHT] = {
 		"Sight",
-		"Max Level: 1",
-		"Skill Form: ^339900Supportive^000000",
-		"Property: ^FF0000Fire^000000",
-		"Description: ^777777Summon a fire ball that will detect",
-		"hidden enemies in the caster's vicinity.^000000"
+		"ระดับสูงสุดของสกิล : 1",
+		"ประเภทสกิล : ^339900สนับสนุน^000000",
+		"คุณสมบัติ : ^FF0000ธาตุไฟ^000000",
+		"คำอธิบาย : ^777777สร้างลูกบอลไฟที่จะตรวจจับศัตรูที่ซ่อนอยู่ภายในบริเวณใกล้เคียงของผู้ใช้",
+		".^000000"
 	},
 	[SKID.MG_NAPALMBEAT] = {
 		"Napalm Beat",
-		"Max Level: 10",
-		"Skill Form: ^FF0000Offensive^000000",
-		"Property: ^bb00bbGhost^000000",
-		"Target: ^777777Enemy^000000",
-		"Description: ^777777Attack an enemy from a distance",
-		"through the use of psychokinetic energy.^000000"
+		"ระดับสูงสุดของสกิล : 10",
+		"ประเภทสกิล : ^FF0000ใช้งาน, โจมตี^000000",
+		"คุณสมบัติ : ^bb00bbวิญญาณ^000000",
+		"เป้าหมาย : ^777777ศัตรู^000000",
+		"คำอธิบาย : ^777777โจทตีศัตรูจากระยะไกล",
+		"ผ่านการใช้พลังงานของ psychokinetic.^000000"
 	},
 	[SKID.MG_SAFETYWALL] = {
 		"Safety Wall",
-		"Max Level: 10",
-		"2^CC3399Requirement: Napalm Beat 7, Soul Strike 5^000000",
-		"23^CC3399Requirement: Napalm Beat 7, Soul Strike 5^000000",
-		"8^CC3399Requirement: Aspersio 4, Sanctuary 3^000000",
-		"Skill Form: ^339900Supportive^000000",
-		"Target: ^777777Ground^000000",
-		"Description: ^777777Create a magic barrier on",
-		"a targeted spot that will block short range",
-		"melee attacks for the duration of skill.",
-		"Each cast requires 1 ^00bb00Blue Gemstone^777777.^000000"
+		"ระดับสูงสุดของสกิล : 10",
+		"2^CC3399ความต้องการเรียนรู้สกิล : Napalm Beat 7, Soul Strike 5^000000",
+		"23^CC3399ความต้องการเรียนรู้สกิล : Napalm Beat 7, Soul Strike 5^000000",
+		"8^CC3399ความต้องการเรียนรู้สกิล : Aspersio 4, Sanctuary 3^000000",
+		"ประเภทสกิล : ^339900สนับสนุน^000000",
+		"เป้าหมาย : ^777777พื้นดิน^000000",
+		"คำอธิบาย : ^777777สร้างเกราะเวทมนตร์",
+		"เพื่อป้องกันเป้าหมายที่จะโจมตีในระยะประชิดระยะเวลาของสกิล",
+		"แต่ละครั้งที่ใช้จะต้องเสีย 1 ^00bb00Blue Gemstone^777777.^000000"
 	},
 	[SKID.MG_SOULSTRIKE] = {
 		"Soul Strike",
