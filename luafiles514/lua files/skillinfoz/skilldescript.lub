@@ -234,13 +234,13 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.MG_FROSTDIVER] = {
 		"Frost Diver",
-		"Max Level: 10",
-		"^CC3399Requirement: Cold Bolt 5^000000",
-		"Skill Form: ^FF0000Offensive^000000",
-		"Property: ^0000bbWater^000000",
-		"Target: ^777777Enemy^000000",
-		"Description: ^777777Inflicts water damage and has",
-		"a chance of freezing it's target.^000000"
+		"ระดับสูงสุดของสกิล : 10",
+		"^CC3399ความต้องการเรียนรู้สกิล: Cold Bolt 5^000000",
+		"ประเภทสกิล : ^FF0000ใช้งาน, โจมตี^000000",
+		"คุณสมบัติ : ^0000bbธาตุน้ำ^000000",
+		"เป้าหมาย: ^777777ศัตรู^000000",
+		"คำอธิบาย : ^777777สร้างความเสียหายจากธาตุน้ำ",
+		"และ มีโอกาศทำให้เป้าหมายติดสถานะ Freezing หรือ แช่แข็ง และ เปลี่ยนสถานะเป็นธาตุน้ำ.^000000"
 	},
 	[SKID.MG_STONECURSE] = {
 		"Stone Curse",
